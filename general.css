@@ -1,7 +1,16 @@
+html{
+    font-family:sans-serif;
+    width:auto;
+}
+
 h1{
     color:#c10d4b;
 }
 
 img{
     max-width: 100%;
+}
+
+figcaption{
+    background-color: #f2f2f2:
 }
